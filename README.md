@@ -7,13 +7,16 @@
 
 **Be able to**
 - compare XP, Scrum and UP on central aspects
+
 <br>
+
 ##Choice of methods - Tuesday - 12th December 2017
 
 **Know**
 - important criterias to apply when selecting software development method
 - possible and appropprate ways to adjust established methods to specific situations
 
+<br>
 
 ##Areas of knowledge and Experiments - Wednesday - 13th December 2017
 
@@ -26,7 +29,7 @@
 - assess the importance of having knowledge in various areas
 - relate various areas of knowledge to activities in 
 
-
+<br>
 
 ##Thursday and Friday 
 * Report Writing
