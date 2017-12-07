@@ -7,7 +7,7 @@
 
 **Be able to**
 - compare XP, Scrum and UP on central aspects
-
+<br>
 ##Choice of methods - Tuesday - 12th December 2017
 
 **Know**
