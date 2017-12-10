@@ -1,12 +1,24 @@
-# SYS-Week3
+# Reflections after the project
 
-##Comparison of methods - Monday - 11th December 2017
+## Plan
+### Day 1 - Comparison of methods
+### Day 2 – Choice of methods
+### Day 3 – Areas of knowledge and Experiments
+### Day 4 – Report Writing and counselling
+### Day 5 – Report Writing and counselling
 
-**Know**
-- characteristics of different classes of software development processes
+## Learning objectives
+- know mportant criterias to apply when selecting software development method
+- know possible and appropprate ways to adjust established methods to specific situations- 
+- know the difference between concrete and abstract knowledge
+- know how co-operation with end users can benefit when seeking knowledge in specific areas
+- know how knowledge can be obtained through experiments
+- be able to compare XP, Scrum and UP on central aspects
+- assess the importance of having knowledge in various areas
+- relate various areas of knowledge to activities in 
 
-**Be able to**
-- compare XP, Scrum and UP on central aspects
+## Business competencies 
+- be able to choose and adjust a method based on the concrete situation
 
 **Ressources**
 * Andersen et al: Professionel Development: chap 2.0-2.2, 3.2-3.3 (skip p.50-58)
@@ -17,8 +29,7 @@
 ##Choice of methods - Tuesday - 12th December 2017
 
 **Know**
-- important criterias to apply when selecting software development method
-- possible and appropprate ways to adjust established methods to specific situations
+
 
 **Ressources**
 * Boehm - “Rebalancing Your Organization’s Agility and Discipline”
@@ -29,13 +40,9 @@
 ##Areas of knowledge and Experiments - Wednesday - 13th December 2017
 
 **Know**
-- the difference between concrete and abstract knowledge
-- how co-operation with end users can benefit when seeking knowledge in specific areas
-- how knowledge can be obtained through experiments
 
-**Be able to**
-- assess the importance of having knowledge in various areas
-- relate various areas of knowledge to activities in 
+
+
 
 **Ressources**
 * Kensing and Munk-Madsen: Structure in the Toolbox
