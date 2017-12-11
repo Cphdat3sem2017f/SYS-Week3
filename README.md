@@ -25,6 +25,7 @@
 ### Comparison of methods - Monday 11th December
 #### Andersen et al: Professionel Development: chap 2.0-2.2, 3.2-3.3 (skip p.50-58)
 #### Leffingwell - chap 1: A brief history ...
+#### [PowerPoint slides](https://github.com/Cphdat3sem2017f/SYS-Week3/blob/master/Comparison%20of%20methods.pptx)
 
 ### Choice of methods - Tuesday 12th December
 #### [PowerPoint slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0999760fe1fc44d3699f66aa03b5d34d0&authkey=AbeWvam4n8LWB8tJVksQuk8&e=d606d34d1f1c4d74a61fc98ff9e58419) 
