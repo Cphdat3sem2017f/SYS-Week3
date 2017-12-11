@@ -22,15 +22,15 @@
 
 ## Resources
 
-### Comparison of methods
+### Comparison of methods - Monday 11th December
 #### Andersen et al: Professionel Development: chap 2.0-2.2, 3.2-3.3 (skip p.50-58)
 #### Leffingwell - chap 1: A brief history ...
 
-### Choice of methods - Tuesday - 12th December 2017
+### Choice of methods - Tuesday 12th December
 #### Boehm: “Rebalancing Your Organization’s Agility and Discipline”
 #### Ambler: Skinnier RUP http://www.drdobbs.com/skinnier-rup/184415143?cid=Ambysoft
 
-### Areas of knowledge and Experiments
+### Areas of knowledge and Experiments - Wednesday 13th December
 #### Kensing and Munk-Madsen: Structure in the Toolbox
 #### Supplementing: Thorshøj: Eksperimenter i systemudvikling
 
