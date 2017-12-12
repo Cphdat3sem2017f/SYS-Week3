@@ -34,5 +34,5 @@
 
 ### Areas of knowledge and Experiments - Wednesday 13th December
 #### Kensing and Munk-Madsen: Structure in the Toolbox
-#### Supplementing: Thorshøj: Eksperimenter i systemudvikling
+
 
